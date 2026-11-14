@@ -1,0 +1,31 @@
+# SQLite database (auto-created at runtime)
+spendwise.db
+spendwise.db-wal
+spendwise.db-shm
+
+# Java build output
+target/
+out/
+*.class
+*.jar
+
+# Maven
+.mvn/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Environment / secrets
+.env
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# Node
+node_modules/
+npm-debug.log*

@@ -1,0 +1,9 @@
+{
+  "name": "spendwise",
+  "version": "1.0.0",
+  "description": "SpendWise - Smart Expense & Split Tracker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
